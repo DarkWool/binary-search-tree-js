@@ -1,0 +1,21 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "private": true,
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkWool/binary-search-tree-js.git"
+  },
+  "keywords": [],
+  "author": "DarkWool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkWool/binary-search-tree-js/issues"
+  },
+  "homepage": "https://github.com/DarkWool/binary-search-tree-js#readme"
+}
